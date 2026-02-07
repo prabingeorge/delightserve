@@ -10,7 +10,6 @@ const { User, Categories, CategoriesLists, CategoriesListItems, CateringListItem
 
 console.log("Modal" + Categories);
 
-
 import { registerSchema, loginSchema } from "../validators/auth.js";
 
 const router = express.Router();
